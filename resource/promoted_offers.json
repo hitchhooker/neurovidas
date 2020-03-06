@@ -1,0 +1,32 @@
+{
+  "mainBanners": [
+    {
+      "title": "Boost your cells",
+      "subtitle": "Carbon Fullerene",
+      "image": "/assets/ban1.jpg",
+      "link": "/women/women-20"
+    }
+  ],
+  "smallBanners": [
+    {
+      "title": "Drugs are illegal",
+      "subtitle": "Vitamines",
+      "image": "/assets/ban2.jpg",
+      "link": "/men/men-11"
+    },
+    {
+      "title": "Invest on your telomeres",
+      "subtitle": "Astragaloside IV Liposomal",
+      "image": "/assets/ban3.jpg",
+      "link": "/gear/gear-3"
+    }
+  ],
+  "productBanners": [
+    {
+      "title": "Invest on your telomeres",
+      "subtitle": "Astragaloside IV Liposomal",
+      "image": "/assets/ban3.jpg",
+      "link": "/gear/gear-3"
+    }
+  ]
+}
